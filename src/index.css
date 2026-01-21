@@ -18,8 +18,8 @@
 html,
 body {
     width: 100%;
-    background-color: black;
-    color: white;
+    background-color: #FAF7F2 ;
+    color: #1E1E1E;
     scroll-behavior: smooth;
     overflow-x: hidden;
 }
