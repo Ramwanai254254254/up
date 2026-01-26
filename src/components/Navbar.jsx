@@ -33,8 +33,8 @@ const Navbar = () => {
         <nav className="fixed top-0 w-full z-50"> {/* Added positioning classes */}
             <div className="flex justify-between items-center p-4">
                 <a href="#home" className="flex items-center gap-2">
-                    <img src="/images/logo.png" alt="logo" className="w-8 h-8" />
-                    <p className="font-bold">Momo Vi</p>
+                    <img src="/images/logos.svg" alt="logo" className="w-8 h-8" />
+                    <p className="font-bold">Khayal</p>
                 </a>
                 <ul className="flex gap-4">
                     {navLinks.map((link) => (
